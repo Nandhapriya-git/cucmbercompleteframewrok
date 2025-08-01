@@ -1,0 +1,90 @@
+2025-07-29 13:04:30,167 [main] INFO  Utils.Log - Navigating to login page
+2025-07-29 13:04:49,238 [main] INFO  Utils.Log - Enetering First name
+2025-07-29 13:04:49,385 [main] INFO  Utils.Log - Enetering last name
+2025-07-29 13:04:49,495 [main] INFO  Utils.Log - Enetering email adress
+2025-07-29 13:04:49,667 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-07-29 13:04:49,790 [main] INFO  Utils.Log - Entering Password
+2025-07-29 13:04:49,912 [main] INFO  Utils.Log - Entering confirm password
+2025-07-29 13:04:50,038 [main] INFO  Utils.Log - Click on Privacy policy
+2025-07-29 13:04:50,197 [main] INFO  Utils.Log - Click on continue button
+2025-07-29 13:32:27,923 [main] INFO  Utils.Log - Navigating to login page
+2025-07-29 13:32:45,569 [main] INFO  Utils.Log - Enetering First name
+2025-07-29 13:32:45,715 [main] INFO  Utils.Log - Enetering last name
+2025-07-29 13:32:45,817 [main] INFO  Utils.Log - Enetering email adress
+2025-07-29 13:32:45,958 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-07-29 13:32:46,108 [main] INFO  Utils.Log - Entering Password
+2025-07-29 13:32:46,225 [main] INFO  Utils.Log - Entering confirm password
+2025-07-29 13:32:46,362 [main] INFO  Utils.Log - Click on Privacy policy
+2025-07-29 13:32:46,508 [main] INFO  Utils.Log - Click on continue button
+2025-07-29 13:34:44,390 [main] INFO  Utils.Log - Navigating to login page
+2025-07-29 13:34:50,090 [main] INFO  Utils.Log - Enetering First name
+2025-07-29 13:34:50,292 [main] INFO  Utils.Log - Enetering last name
+2025-07-29 13:34:50,483 [main] INFO  Utils.Log - Enetering email adress
+2025-07-29 13:34:50,672 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-07-29 13:34:50,857 [main] INFO  Utils.Log - Entering Password
+2025-07-29 13:34:51,021 [main] INFO  Utils.Log - Entering confirm password
+2025-07-29 13:34:51,197 [main] INFO  Utils.Log - Click on Privacy policy
+2025-07-29 13:34:51,378 [main] INFO  Utils.Log - Click on continue button
+2025-07-29 16:11:05,222 [main] INFO  Utils.Log - Navigating to login page
+2025-07-29 16:11:17,528 [main] INFO  Utils.Log - Enetering First name
+2025-07-29 16:11:17,726 [main] INFO  Utils.Log - Enetering last name
+2025-07-29 16:11:17,867 [main] INFO  Utils.Log - Enetering email adress
+2025-07-29 16:11:18,049 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-07-29 16:11:18,219 [main] INFO  Utils.Log - Entering Password
+2025-07-29 16:11:18,365 [main] INFO  Utils.Log - Entering confirm password
+2025-07-29 16:11:18,547 [main] INFO  Utils.Log - Click on Privacy policy
+2025-07-29 16:11:18,698 [main] INFO  Utils.Log - Click on continue button
+2025-07-29 16:49:28,043 [main] INFO  Utils.Log - Navigating to login page
+2025-07-29 16:49:40,372 [main] INFO  Utils.Log - Enetering First name
+2025-07-29 16:49:40,615 [main] INFO  Utils.Log - Enetering last name
+2025-07-29 16:49:40,744 [main] INFO  Utils.Log - Enetering email adress
+2025-07-29 16:49:40,915 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-07-29 16:49:41,161 [main] INFO  Utils.Log - Entering Password
+2025-07-29 16:49:41,344 [main] INFO  Utils.Log - Entering confirm password
+2025-07-29 16:49:41,527 [main] INFO  Utils.Log - Click on Privacy policy
+2025-07-29 16:49:41,660 [main] INFO  Utils.Log - Click on continue button
+2025-07-29 17:22:04,965 [main] INFO  Utils.Log - Navigating to login page
+2025-07-29 17:22:18,470 [main] INFO  Utils.Log - Enetering First name
+2025-07-29 17:22:18,664 [main] INFO  Utils.Log - Enetering last name
+2025-07-29 17:22:18,816 [main] INFO  Utils.Log - Enetering email adress
+2025-07-29 17:22:18,978 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-07-29 17:22:19,159 [main] INFO  Utils.Log - Entering Password
+2025-07-29 17:22:19,445 [main] INFO  Utils.Log - Entering confirm password
+2025-07-29 17:22:19,693 [main] INFO  Utils.Log - Click on Privacy policy
+2025-07-29 17:22:19,913 [main] INFO  Utils.Log - Click on continue button
+2025-08-01 16:26:08,715 [main] INFO  Utils.Log - Navigating to login page
+2025-08-01 16:26:10,354 [main] INFO  Utils.Log - Enetering First name
+2025-08-01 16:26:10,536 [main] INFO  Utils.Log - Enetering last name
+2025-08-01 16:26:10,753 [main] INFO  Utils.Log - Enetering email adress
+2025-08-01 16:26:10,939 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-01 16:26:11,072 [main] INFO  Utils.Log - Entering Password
+2025-08-01 16:26:11,192 [main] INFO  Utils.Log - Entering confirm password
+2025-08-01 16:26:11,364 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-01 16:26:11,497 [main] INFO  Utils.Log - Click on continue button
+2025-08-01 17:15:28,607 [main] INFO  Utils.Log - Navigating to login page
+2025-08-01 17:15:31,315 [main] INFO  Utils.Log - Enetering First name
+2025-08-01 17:15:31,576 [main] INFO  Utils.Log - Enetering last name
+2025-08-01 17:15:31,778 [main] INFO  Utils.Log - Enetering email adress
+2025-08-01 17:15:32,126 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-01 17:15:32,453 [main] INFO  Utils.Log - Entering Password
+2025-08-01 17:15:32,782 [main] INFO  Utils.Log - Entering confirm password
+2025-08-01 17:15:33,062 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-01 17:15:33,277 [main] INFO  Utils.Log - Click on continue button
+2025-08-01 17:19:26,111 [main] INFO  Utils.Log - Navigating to login page
+2025-08-01 17:19:30,478 [main] INFO  Utils.Log - Enetering First name
+2025-08-01 17:19:30,953 [main] INFO  Utils.Log - Enetering last name
+2025-08-01 17:19:31,257 [main] INFO  Utils.Log - Enetering email adress
+2025-08-01 17:19:31,752 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-01 17:19:32,236 [main] INFO  Utils.Log - Entering Password
+2025-08-01 17:19:32,588 [main] INFO  Utils.Log - Entering confirm password
+2025-08-01 17:19:32,961 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-01 17:19:33,285 [main] INFO  Utils.Log - Click on continue button
+2025-08-01 17:25:07,678 [main] INFO  Utils.Log - Navigating to login page
+2025-08-01 17:25:09,883 [main] INFO  Utils.Log - Enetering First name
+2025-08-01 17:25:10,123 [main] INFO  Utils.Log - Enetering last name
+2025-08-01 17:25:10,342 [main] INFO  Utils.Log - Enetering email adress
+2025-08-01 17:25:10,590 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-01 17:25:10,829 [main] INFO  Utils.Log - Entering Password
+2025-08-01 17:25:11,020 [main] INFO  Utils.Log - Entering confirm password
+2025-08-01 17:25:11,275 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-01 17:25:11,530 [main] INFO  Utils.Log - Click on continue button

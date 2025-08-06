@@ -78,8 +78,16 @@ public class RegisterTest {
 	@Then("User registration should be complete")
 	public void user_registration_should_be_complete() {
 		
-		
-		Assert.assertEquals("Your Account Has Been Created7!",accountsuccesspage.getpageheading());
+		Log.info("verifying Account created  message");
+		Assert.assertEquals("Your Account Has Been Created!",accountsuccesspage.getpageheading());
 	
 	} 
+	
+	@Then("validate warning E-Mail Address is already registered!")
+	public void validate_warning_e_mail_address_is_already_registered() {
+		Log.info("verifying duplicate info  warning message");
+		Assert.assertEquals("Warning: E-Mail Address is already registered!",registerPage.getemailwarning() );
+	   
+	}
+
 }

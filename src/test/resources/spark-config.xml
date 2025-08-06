@@ -1,0 +1,6 @@
+<configuration>
+    <theme>standard</theme>
+    <documentTitle>Extent Spark Report</documentTitle>
+    <reportName>Automation Results</reportName>
+    <timestampFormat>yyyy-MM-dd HH:mm:ss</timestampFormat>
+</configuration>

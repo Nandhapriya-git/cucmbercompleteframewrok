@@ -67,6 +67,9 @@ public class Registerpage {
 	@FindBy(xpath="//input[@id='input-password']/following-sibling::div")
 	private WebElement passwordWarning;
 	
+	@FindBy(xpath="//div[@class='alert alert-danger alert-dismissible' and contains(text(),'Warning: E-Mail Address is already registered!')]")
+	private WebElement DuplicateEmailWarning;
+	
 	public void enterFirstName(String firstNameText) {
 		
 		Elementutils.typeText(driver, Firstname, 10, firstNameText);
@@ -116,6 +119,15 @@ public class Registerpage {
 		Elementutils.clickElement(driver, continueButton, 20);
 
 		return new Accountsuccesspage(driver) ;
+		
+	}
+	
+	public String getemailwarning() {
+		
+		String warningmessage=Elementutils.getTextFromElement(driver, DuplicateEmailWarning, 20);
+		
+		return warningmessage;
+		
 		
 	}
 	

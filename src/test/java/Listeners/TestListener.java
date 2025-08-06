@@ -18,7 +18,7 @@ import org.apache.commons.io.FileUtils;
 
 public class TestListener implements ITestListener {
 
-    private static ExtentReports extent;
+    public static ExtentReports extent;
     private static ExtentTest test;
 
     @Override

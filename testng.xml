@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Cucumber Test Suite">
+ <listeners>
+        <listener class-name="Listeners.TestListener"/>
+    </listeners>
+    <test name="Cucumber Scenarios">
+        <classes>
+            <class name="TestRunner.TestRunner"/>
+        </classes>
+    </test>
+</suite>

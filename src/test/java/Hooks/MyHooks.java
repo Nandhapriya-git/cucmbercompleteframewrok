@@ -7,7 +7,10 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
+import com.aventstack.extentreports.ExtentTest;
+
 import DriverFactory.Driverfactory;
+import Listeners.TestListener;
 import Utils.Configreader;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
@@ -18,13 +21,17 @@ public class MyHooks {
 	WebDriver driver;
 	
 	@Before
-	public void setup() {
-		
-		Properties prop= new Configreader().IntializeProperties();
-		driver=Driverfactory.Intializebrowser(prop.getProperty("browser"));
-		Log.info("Navigating to login page");
-		driver.get(prop.getProperty("url"));
-	}
+        public void setup(Scenario scenario) {
+            Properties prop = new Configreader().IntializeProperties();
+            driver = Driverfactory.Intializebrowser(prop.getProperty("browser"));
+            Log.info("Navigating to login page");
+            driver.get(prop.getProperty("url"));
+
+            ExtentTest test = TestListener.getExtent().createTest(scenario.getName());
+            TestListener.setTest(test);
+        }
+
+	
 
 	
 	@After

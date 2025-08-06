@@ -11,6 +11,12 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
 </properties>
+<repositories>
+    <repository>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/grasshopper7/extentreports-cucumber7-adapter</url>
+    </repository>
+</repositories>
 
 
   <dependencies>
@@ -20,11 +26,19 @@
       <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
-     <dependency>
+<dependency>
         <groupId>com.aventstack</groupId>
         <artifactId>extentreports</artifactId>
         <version>5.1.1</version>
     </dependency>
+    
+    <!-- Fixed Cucumber7 Adapter (corrected artifactId) -->
+<dependency>
+    <groupId>tech.grasshopper</groupId>
+    <artifactId>extentreports-cucumber7-adapter</artifactId>
+    <version>1.14.0</version>
+</dependency>
+    
     <dependency>
       <groupId>io.cucumber</groupId>
       <artifactId>cucumber-java</artifactId>
@@ -52,7 +66,12 @@
         <artifactId>log4j-core</artifactId>
         <version>2.20.0</version>
     </dependency>
-
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-testng</artifactId>
+    <version>7.14.0</version> <!-- latest as of Aug 2025 -->
+    <scope>test</scope>
+</dependency>
     <!-- Log4j2 API -->
     <dependency>
         <groupId>org.apache.logging.log4j</groupId>
@@ -66,7 +85,23 @@
         <artifactId>log4j-slf4j-impl</artifactId>
         <version>2.20.0</version>
     </dependency>
+    
+      <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.9.0</version>  <!-- ✅ Latest as of August 2025 -->
+    <scope>test</scope>
+</dependency>
+
+<dependency>
+    <groupId>commons-io</groupId>
+    <artifactId>commons-io</artifactId>
+    <version>2.11.0</version>
+</dependency>
+    
   </dependencies>
+  
+  
   
 
     <!-- Log4j2 core -->

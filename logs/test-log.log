@@ -88,3 +88,150 @@
 2025-08-01 17:25:11,020 [main] INFO  Utils.Log - Entering confirm password
 2025-08-01 17:25:11,275 [main] INFO  Utils.Log - Click on Privacy policy
 2025-08-01 17:25:11,530 [main] INFO  Utils.Log - Click on continue button
+2025-08-05 17:59:30,232 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 17:59:30,735 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-05 18:00:35,140 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 18:00:35,679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-05 18:00:35,935 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-05 18:05:27,672 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 18:05:28,286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-05 18:05:35,405 [main] INFO  Utils.Log - Navigating to login page
+2025-08-05 18:05:37,162 [main] INFO  Utils.Log - Enetering First name
+2025-08-05 18:05:37,385 [main] INFO  Utils.Log - Enetering last name
+2025-08-05 18:05:37,653 [main] INFO  Utils.Log - Enetering email adress
+2025-08-05 18:05:37,943 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-05 18:05:38,189 [main] INFO  Utils.Log - Entering Password
+2025-08-05 18:05:38,411 [main] INFO  Utils.Log - Entering confirm password
+2025-08-05 18:05:38,650 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-05 18:05:38,829 [main] INFO  Utils.Log - Click on continue button
+2025-08-05 18:27:27,953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-08-05 18:27:27,963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-08-05 18:27:27,969 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:27,969 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:27,971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:27,971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:27,972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:27,972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:27,975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-08-05 18:27:27,999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2025-08-05 18:27:28,002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,027 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-08-05 18:27:28,029 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-05 18:27:28,031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-05 18:27:28,053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\AppData\Local\Temp\testng-eclipse--154896446\testng-customsuite.xml
+
+2025-08-05 18:27:28,106 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2025-08-05 18:27:33,937 [main] INFO  Utils.Log - Navigating to login page
+2025-08-05 18:27:36,039 [main] INFO  Utils.Log - Enetering First name
+2025-08-05 18:27:36,535 [main] INFO  Utils.Log - Enetering last name
+2025-08-05 18:27:36,858 [main] INFO  Utils.Log - Enetering email adress
+2025-08-05 18:27:37,205 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-05 18:27:37,583 [main] INFO  Utils.Log - Entering Password
+2025-08-05 18:27:37,950 [main] INFO  Utils.Log - Entering confirm password
+2025-08-05 18:27:38,330 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-05 18:27:38,735 [main] INFO  Utils.Log - Click on continue button
+2025-08-05 18:27:43,527 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@775f15fd: 157 ms
+2025-08-05 18:27:43,555 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7afbf2a0: 28 ms
+2025-08-05 18:27:43,576 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2ef041bb: 20 ms
+2025-08-05 18:27:43,592 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3b39e79b: 16 ms
+2025-08-05 18:27:43,621 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4c6bba7d: 27 ms
+2025-08-05 18:27:43,621 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@41e8d917: 0 ms
+2025-08-05 18:34:23,229 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 18:34:23,775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-05 18:34:28,825 [main] INFO  Utils.Log - Navigating to login page
+2025-08-05 18:34:31,117 [main] INFO  Utils.Log - Enetering First name
+2025-08-05 18:34:31,565 [main] INFO  Utils.Log - Enetering last name
+2025-08-05 18:34:31,876 [main] INFO  Utils.Log - Enetering email adress
+2025-08-05 18:34:32,299 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-05 18:34:32,689 [main] INFO  Utils.Log - Entering Password
+2025-08-05 18:34:33,098 [main] INFO  Utils.Log - Entering confirm password
+2025-08-05 18:34:33,553 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-05 18:34:34,134 [main] INFO  Utils.Log - Click on continue button
+2025-08-05 18:39:32,128 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 18:39:32,905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-05 18:39:38,388 [main] INFO  Utils.Log - Navigating to login page
+2025-08-05 18:39:40,229 [main] INFO  Utils.Log - Enetering First name
+2025-08-05 18:39:40,630 [main] INFO  Utils.Log - Enetering last name
+2025-08-05 18:39:40,904 [main] INFO  Utils.Log - Enetering email adress
+2025-08-05 18:39:41,161 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-05 18:39:41,549 [main] INFO  Utils.Log - Entering Password
+2025-08-05 18:39:41,869 [main] INFO  Utils.Log - Entering confirm password
+2025-08-05 18:39:42,127 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-05 18:39:42,350 [main] INFO  Utils.Log - Click on continue button
+2025-08-05 19:34:50,754 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 19:34:51,410 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-05 19:34:59,645 [main] INFO  Utils.Log - Navigating to login page
+2025-08-05 19:35:02,179 [main] INFO  Utils.Log - Enetering First name
+2025-08-05 19:35:02,581 [main] INFO  Utils.Log - Enetering last name
+2025-08-05 19:35:02,884 [main] INFO  Utils.Log - Enetering email adress
+2025-08-05 19:35:03,343 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-05 19:35:03,800 [main] INFO  Utils.Log - Entering Password
+2025-08-05 19:35:04,152 [main] INFO  Utils.Log - Entering confirm password
+2025-08-05 19:35:04,464 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-05 19:35:04,753 [main] INFO  Utils.Log - Click on continue button
+2025-08-05 19:54:05,223 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-05 19:54:05,865 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-05 19:54:12,010 [main] INFO  Utils.Log - Navigating to login page
+2025-08-05 19:54:14,061 [main] INFO  Utils.Log - Enetering First name
+2025-08-05 19:54:14,516 [main] INFO  Utils.Log - Enetering last name
+2025-08-05 19:54:14,894 [main] INFO  Utils.Log - Enetering email adress
+2025-08-05 19:54:15,303 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-05 19:54:15,646 [main] INFO  Utils.Log - Entering Password
+2025-08-05 19:54:15,989 [main] INFO  Utils.Log - Entering confirm password
+2025-08-05 19:54:16,430 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-05 19:54:16,667 [main] INFO  Utils.Log - Click on continue button
+2025-08-05 19:58:54,811 [main] INFO  Utils.Log - Navigating to login page
+2025-08-05 19:58:58,315 [main] INFO  Utils.Log - Navigating to login page
+2025-08-06 10:59:26,707 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-08-06 10:59:27,335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohan\eclipse-workspace\eclipseprogram\eclipseprogram\Testcucumber\testng.xml
+
+2025-08-06 10:59:34,357 [main] INFO  Utils.Log - Navigating to login page
+2025-08-06 10:59:36,615 [main] INFO  Utils.Log - Enetering First name
+2025-08-06 10:59:36,905 [main] INFO  Utils.Log - Enetering last name
+2025-08-06 10:59:37,123 [main] INFO  Utils.Log - Enetering email adress
+2025-08-06 10:59:37,413 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-06 10:59:37,594 [main] INFO  Utils.Log - Entering Password
+2025-08-06 10:59:37,871 [main] INFO  Utils.Log - Entering confirm password
+2025-08-06 10:59:38,062 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-06 10:59:38,316 [main] INFO  Utils.Log - Click on continue button
+2025-08-06 10:59:42,083 [main] INFO  Utils.Log - Navigating to login page
+2025-08-06 10:59:43,657 [main] INFO  Utils.Log - Enetering First name
+2025-08-06 10:59:44,018 [main] INFO  Utils.Log - Enetering last name
+2025-08-06 10:59:44,303 [main] INFO  Utils.Log - Enetering email adress
+2025-08-06 10:59:44,676 [main] INFO  Utils.Log - Entering TelephoneNumber
+2025-08-06 10:59:44,947 [main] INFO  Utils.Log - Entering Password
+2025-08-06 10:59:45,202 [main] INFO  Utils.Log - Entering confirm password
+2025-08-06 10:59:45,588 [main] INFO  Utils.Log - Click on Privacy policy
+2025-08-06 10:59:45,852 [main] INFO  Utils.Log - Click on continue button

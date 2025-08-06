@@ -12,6 +12,8 @@ import com.aventstack.extentreports.ExtentTest;
 import DriverFactory.Driverfactory;
 import Listeners.TestListener;
 import Utils.Configreader;
+import Utils.ExtentManager;
+import io.cucumber.java.AfterAll;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import Utils.Log;
@@ -27,8 +29,9 @@ public class MyHooks {
             Log.info("Navigating to login page");
             driver.get(prop.getProperty("url"));
 
-            ExtentTest test = TestListener.getExtent().createTest(scenario.getName());
-            TestListener.setTest(test);
+            
+            ExtentTest test = ExtentManager.getInstance().createTest(scenario.getName());
+          
         }
 
 	
@@ -48,5 +51,10 @@ public class MyHooks {
 		
 		
 	}
+	
+	@AfterAll
+    public static void flushReport() {
+        ExtentManager.getInstance().flush();
+    }
 	
 }
